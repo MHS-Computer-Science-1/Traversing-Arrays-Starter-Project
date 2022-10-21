@@ -53,7 +53,7 @@
     Private Sub Button3_Click(sender As Object, e As EventArgs) Handles Button3.Click
         ListBox1.Items.Clear()
 
-        'Display the averages that are C (70) or lower
+        'Display the averages that are C (79) or lower
 
 
 
